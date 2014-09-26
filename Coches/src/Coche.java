@@ -45,9 +45,9 @@ public class Coche {
 	
 	@Override
 	public String toString() {
-		return "Coche [matricula=" + matricula + ", cilindrada=" + cilindrada
+		return "\nCoche [matricula=" + matricula + ", cilindrada=" + cilindrada
 				+ ", caballos=" + caballos + ", marca=" + marca + ", modelo="
-				+ modelo + ", popietario=" + popietario + "]";
+				+ modelo + ", popietario=" + popietario + "]\n";
 	}
 	
 	
