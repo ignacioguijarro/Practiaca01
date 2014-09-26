@@ -5,9 +5,9 @@ import java.util.Collections;
 public class Comparador {
 
 	public static void main(String[] args) {
-		Coche c1 = new Coche ("5763-CSE", 1900, 100);
-		Coche c2 = new Coche ("3218-UDE", 1500, 50);
-		Coche c3 = new Coche ("8675-OIF", 900, 90);
+		Coche c1 = new Coche ("5763-CSE", 1900, 100, "fiat", "stilo", "Hermenegildo");
+		Coche c2 = new Coche ("3218-UDE", 1500, 50, "seat", "panda", "Skander");
+		Coche c3 = new Coche ("8675-OIF", 900, 90, "ford", "mustang", "Socorro");
 
 		ArrayList<Coche> list = new ArrayList<Coche>();
 		
