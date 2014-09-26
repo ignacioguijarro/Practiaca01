@@ -49,8 +49,14 @@ public class Coche {
 				+ ", caballos=" + caballos + ", marca=" + marca + ", modelo="
 				+ modelo + ", popietario=" + popietario + "]\n";
 	}
+	//voy a a�adir un conflicto ignacio
+	
+	
+	
+	
 	
 	//Voy a añadir un conflicto CARLOS
+	//Finalmente nos quedamos con el código de CARLOS y con el de IGNACIO
 	
 	
 	
