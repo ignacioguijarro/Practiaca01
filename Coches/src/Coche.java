@@ -6,7 +6,7 @@ public class Coche {
 	private int caballos;
 	private String marca;
 	private String modelo;
-	private String popietario;
+	
 	
 	public Coche(String matricula, int cilindrada, int caballos, String marca,
 			String modelo, String popietario) {
